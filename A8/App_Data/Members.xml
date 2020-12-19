@@ -1,0 +1,15 @@
+<members>
+  <member>
+    <name>staff1</name>
+    <pwd>123</pwd>
+  </member>
+  <member>
+    <name>staff2</name>
+    <pwd>456</pwd>
+  </member>
+  <member>
+    <name>abc</name>
+    <pwd>123</pwd>
+  </member>
+
+</members>
